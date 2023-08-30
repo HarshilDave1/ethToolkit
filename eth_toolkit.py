@@ -1,7 +1,7 @@
 from abc import ABC
 from superagi.tools.base_tool import BaseToolkit, BaseTool
 from typing import Type, List
-from superagi.tools.eth_toolkit.test_eth import TestEthTool
+from superagi.tools.external_tools.eth_toolkit.test_eth import TestEthTool
 
 
 
