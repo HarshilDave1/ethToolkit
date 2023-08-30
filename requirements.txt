@@ -1,1 +1,1 @@
-pip install eth-ape
+eth-ape
