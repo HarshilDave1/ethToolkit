@@ -1,1 +1,5 @@
+# cython<3.0.0
+# web3==5.31.3
+# py-solc-x==1.1.1
+# eth-brownie==1.19.3
 eth-ape

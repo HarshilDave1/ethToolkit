@@ -35,5 +35,5 @@ class TestEthTool(BaseTool):
         Returns:
             print the line from input
         """
-        print(print_line)
+        return print_line
 
